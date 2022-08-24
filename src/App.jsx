@@ -36,6 +36,14 @@ function App() {
     'Subway',
     'dean&david',
     'Don',
+    'LOsteria',
+    'Front Food',
+    'MyIndigo',
+    'Glorious Bastards',
+    'Myako Ramen',
+    'Great',
+    'Le Jardin',
+    'Caffee Central',
   ]
 
   const weelColors = () => {
