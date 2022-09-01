@@ -44,6 +44,7 @@ function App() {
     'Great',
     'Le Jardin',
     'Caffee Central',
+    'DAO',
   ]
 
   const weelColors = () => {
